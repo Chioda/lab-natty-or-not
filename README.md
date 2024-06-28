@@ -33,7 +33,7 @@ Criado o prompt no ChatGPT e gerada a imagem pelo Leonard.AI
 
 ## 🚀 Resultados
 
-exemplos/Default_Design_a_3D_graffitistyle_artwork_of_the_name_CHIODA_T_3.jpg
+[exemplos/Default_Design_a_3D_graffitistyle_artwork_of_the_name_CHIODA_T_3.jpg](https://github.com/Chioda/lab-natty-or-not/blob/main/exemplos/Default_Design_a_3D_graffitistyle_artwork_of_the_name_CHIODA_T_3.jpg)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
