@@ -20,19 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Imagem gerada por IA ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Imagem de um graffitti gerado por IA
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Leonard.AI e ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criado o prompt no ChatGPT e gerada a imagem pelo Leonard.AI
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+![image](https://github.com/Chioda/lab-natty-or-not/assets/70536163/4f176250-c5f6-4d04-a20c-aabae885e3d1)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
